@@ -1,5 +1,4 @@
-# Sarcasm-Detection-Models
-Supervised ML models trained on a bevy of feature extractors for sarcasm detection 
+# SARCASM DETECTION MODELS
 
 # Approach
 Pre-processing using conventional approach is done to minimize the content of the text so that it's easier to convert to numeric data for the various models. However, doing the same to Sarcastic text removes the essence of what makes it Sarcastic, thereby greatly reducing the potential highest accuracies of the models. In this code, I've attempted to maximize the structure of data so as to maximize accuracy. This is the code that goes along with the research I did, showing that the proposed pre-processing can increase the accuracies of all models by upto 11%, with an average of 6% for the Machine Learning models. For Neural Networks however, the change is minimal.
