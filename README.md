@@ -18,4 +18,5 @@ pre-trained GLoVe for the 55k dataset.
 
 # Results
 For ML models on 10k : 82.89% accuracy for Logistic Regression with Count Vectorizer.
+
 For Neural Networks on 55k : 91.94% accuracy for Bidirectional Long Short Term Memory with pre-trained GloVe
