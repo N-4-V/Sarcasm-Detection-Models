@@ -15,7 +15,6 @@ Machine Learning Models used : Gaussian Naive Bayes, Decision Tree, Logistic Reg
 
 Neural Networks used : Convoluted Neural Network and Bidirectional Long Short Term Memory. Both used with Count and TF-IDF Vectorizers for the 10k dataset, and with 
 pre-trained GLoVe for the 55k dataset.
-==============================================================
 
 # Results
 For ML models on 10k : 82.89% accuracy for Logistic Regression with Count Vectorizer.
